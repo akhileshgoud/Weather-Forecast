@@ -1,0 +1,30 @@
+home, body {
+    min-width: 100%;
+    min-height: 100%;
+    overflow-x: hidden;
+}
+
+.navbar .navbar-header .navbar-brand {
+    color: #ffffff;
+}
+
+.jumbo {
+    margin-top: 80px;
+    min-height: 250px;
+    background-color: lightblue;
+    text-align: center;
+}
+
+#hourly-panel {
+    margin-top: 80px;
+    align-content: center;
+}
+
+#daily-panel {
+    margin-top: 80px;
+    align-content: center;
+}
+
+.btn-saved-search {
+    margin: 10px;
+}
