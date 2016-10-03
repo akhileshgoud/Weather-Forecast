@@ -28,3 +28,17 @@ home, body {
 .btn-saved-search {
     margin: 10px;
 }
+
+#myFooter {
+	margin-right:auto;
+	margin-left:auto;
+}
+
+#footer-link {
+	color: #000;
+	padding-bottom: 20px;
+}
+
+#footer-link:hover {
+	text-decoration: underline;
+}
